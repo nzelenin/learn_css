@@ -4,10 +4,6 @@ body {
 
 }
 
-html {
-	font-size: 10px;
-}
-
 .banner {
 	display: flex;
 	flex-direction: column;
