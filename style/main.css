@@ -4,6 +4,10 @@ body {
 
 }
 
+html {
+	font-size: 10px;
+}
+
 .banner {
 	display: flex;
 	flex-direction: column;
@@ -66,6 +70,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	
 }
 
 .header-tag {
@@ -78,6 +83,7 @@ body {
 	text-align: center;
 	border-radius: 6px;
 	background-color: #f6f6f6;
+	
 	
 }
 
